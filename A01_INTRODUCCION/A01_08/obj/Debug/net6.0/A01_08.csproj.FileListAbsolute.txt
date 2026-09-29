@@ -1,0 +1,15 @@
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\bin\Debug\net6.0\A01_08.exe
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\bin\Debug\net6.0\A01_08.deps.json
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\bin\Debug\net6.0\A01_08.runtimeconfig.json
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\bin\Debug\net6.0\A01_08.dll
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\bin\Debug\net6.0\A01_08.pdb
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.csproj.AssemblyReference.cache
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.AssemblyInfoInputs.cache
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.AssemblyInfo.cs
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.csproj.CoreCompileInputs.cache
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.dll
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\refint\A01_08.dll
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.pdb
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\A01_08.genruntimeconfig.cache
+C:\Users\watat\Desktop\2ºDAM\INTERFACES\UD2_C#_.NET_FICHEROS\A01_INTRODUCCION\A01_08\obj\Debug\net6.0\ref\A01_08.dll
