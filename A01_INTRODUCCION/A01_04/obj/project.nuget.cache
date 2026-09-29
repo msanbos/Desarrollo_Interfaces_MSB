@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r0hGOYahMeg=",
+  "dgSpecHash": "as3vBP8zCRw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_04\\A01_04.csproj",
+  "projectFilePath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_04\\A01_04.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\watat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\watat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",

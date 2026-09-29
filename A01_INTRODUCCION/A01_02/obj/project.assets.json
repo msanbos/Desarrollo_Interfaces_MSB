@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_02\\A01_02.csproj",
+      "projectUniqueName": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_02\\A01_02.csproj",
       "projectName": "A01_02",
-      "projectPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_02\\A01_02.csproj",
+      "projectPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_02\\A01_02.csproj",
       "packagesPath": "C:\\Users\\watat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_02\\obj\\",
+      "outputPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\watat\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj": {}
+    "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj": {
+    "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj",
+        "projectUniqueName": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj",
         "projectName": "A01_08",
-        "projectPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj",
+        "projectPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\A01_08.csproj",
         "packagesPath": "C:\\Users\\watat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\obj\\",
+        "outputPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A01_INTRODUCCION\\A01_08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\watat\\AppData\\Roaming\\NuGet\\NuGet.Config"
