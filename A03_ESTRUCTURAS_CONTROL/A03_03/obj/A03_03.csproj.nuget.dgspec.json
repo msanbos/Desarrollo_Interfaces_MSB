@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj": {}
+    "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj": {}
   },
   "projects": {
-    "c:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj": {
+    "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj",
+        "projectUniqueName": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj",
         "projectName": "A03_03",
-        "projectPath": "c:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj",
+        "projectPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\A03_03.csproj",
         "packagesPath": "C:\\Users\\watat\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\obj\\",
+        "outputPath": "C:\\Users\\watat\\Desktop\\2ºDAM\\INTERFACES\\GITHUB\\UD2_C#_.NET_FICHEROS\\A03_ESTRUCTURAS_CONTROL\\A03_03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\watat\\AppData\\Roaming\\NuGet\\NuGet.Config"
