@@ -1,0 +1,15 @@
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/bin/Debug/net10.0/A04_01
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/bin/Debug/net10.0/A04_01.deps.json
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/bin/Debug/net10.0/A04_01.runtimeconfig.json
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/bin/Debug/net10.0/A04_01.dll
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/bin/Debug/net10.0/A04_01.pdb
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.AssemblyInfoInputs.cache
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.AssemblyInfo.cs
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.csproj.CoreCompileInputs.cache
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.sourcelink.json
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.dll
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/refint/A04_01.dll
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.pdb
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/A04_01.genruntimeconfig.cache
+/workspaces/Desarrollo_Interfaces_MSB/A04_ARRAYS Y STRINGS/A04_01/obj/Debug/net10.0/ref/A04_01.dll
